@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gokul Krishna L
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and improving my problem solving skills
 - 💞️ I have worked on swift, dart and nodejs
 - 📫 Can contact me at phone:- +918943965123 and email :- gokultechnologyenthusiast@gmail.com
 
